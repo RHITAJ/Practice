@@ -1,0 +1,9 @@
+How to Debug in a Proper Way:
+============================
+
+	1. First we need to build Solution files in Visual Studio Rub as Administrator
+	2. Then it will creates a .exe file 
+	3. The we  need to set a break point after the sleep in below main file
+	4. After that we need to Open the CMD as a Administrator mode then open the .exe file 
+	5. Then we need to run the exe file
+	6. Open VS and attach the .exe
